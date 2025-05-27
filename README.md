@@ -6,8 +6,8 @@
 
 ---
 
-node v16.20.2 사용
-react v18.3.1 사용
+    node v16.20.2 사용
+    react v18.3.1 사용
 
 In the project directory, you can run:
 
